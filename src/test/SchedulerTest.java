@@ -1,4 +1,6 @@
-package main;
+package test;
+
+import main.MovingInterval;
 
 import java.util.ArrayList;
 
